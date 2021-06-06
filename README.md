@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AkshatYadav0
-- 👀 I’m interested in ... Python, Machine Leanring, Deep learning etc...
-- 🌱 I’m currently learning ... Deep learning libraries
+- 👀 I’m interested in ... Python, Machine Leanring, Deep learning AI
 - 💞️ I’m looking to collaborate on ... Machine/Deep learning projects
 - 📫 How to reach me ... yadavakshat002@gmail.com
 
