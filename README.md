@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshatYadav0
+- 👋 Hi, I’m Akshat Yadav
 - Interested in ... Python, Machine Leanring, Deep learning AI
 - 📫 How to reach me ... yadavakshat002@gmail.com
 
